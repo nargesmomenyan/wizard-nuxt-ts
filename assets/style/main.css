@@ -1,0 +1,12 @@
+@font-face{
+        font-family:Iransans;
+        src:  Url('~assets/fonts/Iransans.woff');
+        font-weight: normal;
+}
+*{
+    font-family: Iransans;
+}
+body{
+    font-family: Iransans ;
+    
+}

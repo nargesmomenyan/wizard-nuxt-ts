@@ -1,0 +1,42 @@
+{
+    "location": {
+        "shipdate":"shipdate",
+        "title": "Setup Your Current Location",
+        "addressLine1": "Address Line 1",
+        "addressLine2": "Address Line 2",
+        "postCode": "Postcode",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "phoneNo":"Phone Number",
+        "nationalCode":"National Code"
+    },
+    "details": {
+        "title": "Enter the Details of your Delivery",
+        "packageDetails": "Package Details",
+        "weight": "Weight",
+        "width": "Width",
+        "Height": "Height",
+        "Length": "Length"
+    },
+    "services": {
+        "title": "Select Your Services",
+        "DeliveryType": "Delivery Type",
+        "PackagingType": "Packaging Type",
+        "time": "Prefered Delivery Window"
+    },
+    "stepper": {
+        "nextStep": "Next Step",
+        "previous": "Previous",
+        "SubmitTitle": "Review Your Details and Submit",
+        "steps": {
+            "1": "Setup Location",
+            "2": "Enter Details",
+            "3": "Select Services",
+            "4": "Review and Submit"
+        }
+    },
+    "base":{
+        "close":"close"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "location": {
+        "shipdate":"تاریخ ارسال",
+        "title": "اطلاعات آدرس",
+        "addressLine1": "آدرس 1",
+        "addressLine2": "آدرس 2",
+        "postCode": "کد پستی",
+        "city": "شهر",
+        "state": "استان",
+        "country": "کشور",
+        "phoneNo":"شماره همراه",
+        "nationalCode":"کد ملی"
+    },
+    "details": {
+        "title": "اطلاعات بسته",
+        "packageDetails": "جزئیات بسته",
+        "weight": "وزن",
+        "width": "عرض",
+        "Height": "ارتفاع",
+        "Length": "طول"
+    },
+    "services": {
+        "title": "انتخاب سرویس",
+        "DeliveryType": "نوع تحویل",
+        "PackagingType":"نوع بسته بندی",
+        "time":"زمان تحویل"
+    },
+    "stepper": {
+        "nextStep": "مرحله بعد",
+        "previous": "مرحله قبل",
+        "SubmitTitle": "بررسی اطلاعات و تأیید نهایی",
+        "steps": {
+            "1": "آدرس",
+            "2": "جزئیات بسته",
+            "3": "انتخاب سرویس",
+            "4": "تأیید"
+        }
+    },
+    "base":{
+        "close":"بستن"
+    }
+}
